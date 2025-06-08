@@ -17,7 +17,7 @@ summary: "This is my first project."
   <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
 </div>
 
-The fundamental of this project is in the works.
+The fundamental goal of this project is in the works.
 
 All alternative perspectives are being drafted.
 
