@@ -35,9 +35,9 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Information and Computer Science \n(expected 05/26)",
+      "area": "Information and Computer Science \n(expected 2026)",
       "studyType": "B.A.",
-      "startDate": "01/24",
+      "startDate": "2024",
       "endDate": "Present",
       "courses": [
       ]
@@ -48,8 +48,8 @@
       "company": "U.S. Army",
       "position": "Communications Department Manager",
       "website": "",
-      "startDate": "01/18",
-      "endDate": "04/23",
+      "startDate": "2018",
+      "endDate": "2023",
       "summary": "Managed and coordinated communications planning and execution of telecommunications and information technology across a department spanning five companies, ensuring seamless integration and operational efficiency.",
       "highlights": [
         "Communications section manager with 14+ years of planning and executing the installation, operationm and maintenance of communications systems, including local are networks, wide are networks, and routers; satellite radio communications; electronic support systems; and network integration using radio, wire, and automated systems."
@@ -59,8 +59,8 @@
       "company": "U.S. Army",
       "position": "Help Desk Technician",
       "website": "",
-      "startDate": "12/14",
-      "endDate": "01/18",
+      "startDate": "2014",
+      "endDate": "2018",
       "summary": "Help Desk Technician provided technical support and assistance to clients, including the U.S. Army Pacific Commanding General, throughout the Pacific and European regions",
       "highlights": [
         "Help Desk Technician provided techincal support and assitance to clients, including U.S. Army Pacific Commanding General and supporting workforce, throughout the Pacific and European regions"
@@ -70,8 +70,8 @@
        "company": "U.S. Army",
       "position": "Radio Satellite Technician",
       "website": "",
-      "startDate": "07/08",
-      "endDate": "12/14",
+      "startDate": "2008",
+      "endDate": "2014",
       "summary": "Radio technician with expertise ranging from novice tasks of troubleshooting to advanced system integration, providing support throughout the Republic of South Korea, Texas, U.S.A., and Germany. ",
       "highlights": [
         "Installed, maintained, and troubleshooted signal support systems, computer systems, signal communications support electronic equipment, and satellite radio communications equipment."
