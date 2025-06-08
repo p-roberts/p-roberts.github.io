@@ -1,43 +1,43 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "P. Roberts",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "picture": "https://github.com/p-roberts.png",
+    "email": "pfrobert@hawaii.edu",
+    "phone": "",
+    "website": "https://p-roberts.github.io",
+    "summary": "I am studying for a B.A. in Information and Computer Science in the Department of Information and Computer Sciences at the University of Hawaii at Manoa. I expect to graduate in Spring, 2026.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "p-roberts", "url": "http://github.com/p-roberts" },
+      { "network": "linkedin", "username": "", "url": "" },
+      { "network": "twitter", "username": "", "url": "" },
+      { "network": "instagram", "username": "", "url": "" }
     ]
   },
   "interests": [
     { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
+    { "name": "Artificial Intelligence (AI)" },
+    { "name": "App Design" },
+    { "name": "3D Modeling" },
     { "name": "3D Graphics" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "Python", "C", "C++", "Java", "Javascript" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Git/GitHub" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Information and Computer Science (expected 05/2026)",
+      "studyType": "B.A.",
+      "startDate": "01/2024",
       "endDate": "Present",
       "courses": [
       ]
@@ -45,69 +45,78 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "U.S. Army",
+      "position": "Communications Department Manager",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "01/2018",
+      "endDate": "04/20223",
+      "summary": "Managed and coordinated communications planning and execution of telecommunications and information technology across a department spanning five companies, ensuring seamless integration and operational efficiency.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Communications section manager with 14+ years of planning and executing the installation, operationm and maintenance of communications systems, including local are networks, wide are networks, and routers; satellite radio communications; electronic support systems; and network integration using radio, wire, and automated systems."
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "U.S. Army",
+      "position": "Help Desk Technician",
+      "website": "",
+      "startDate": "12/2014",
+      "endDate": "01/2018",
+      "summary": "Help Desk Technician provided technical support and assistance to clients, including the U.S. Army Pacific Commanding General, throughout the Pacific and European regions",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Help Desk Technician provided techincal support and assitance to clients, including U.S. Army Pacific Commanding General and supporting workforce, throughout the Pacific and European regions"
+      ]
+    },
+    {
+       "company": "U.S. Army",
+      "position": "Radio Satellite Technician",
+      "website": "",
+      "startDate": "07/2008",
+      "endDate": "12/2014",
+      "summary": "Radio technician with expertise ranging from novice tasks of troubleshooting to advanced system integration, providing support throughout the Republic of South Korea, Texas, U.S.A., and Germany. ",
+      "highlights": [
+        "Installed, maintained, and troubleshooted signal support systems, computer systems, signal communications support electronic equipment, and satellite radio communications equipment."
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "",
+      "website": "",
+      "position": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "",
+        ""
       ]
     },
     {
       "organization": "",
       "website": "",
-      "position": "Professional organization involvement",
+      "position": "",
       "startDate": "",
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "",
+        "",
+        ""
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
     }
   ],
   "references": [
