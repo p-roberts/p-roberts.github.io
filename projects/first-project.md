@@ -4,7 +4,7 @@ type: project
 image: img/micromouse/micromouse-square.jpg
 title: "First Project"
 date: 2025
-published: false
+published: true
 labels:
   - JavaScript
   - TypeScript
