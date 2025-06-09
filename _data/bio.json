@@ -10,9 +10,7 @@
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "p-roberts", "url": "http://github.com/p-roberts" },
-      { "network": "linkedin", "username": "", "url": "" },
-      { "network": "twitter", "username": "", "url": "" },
-      { "network": "instagram", "username": "", "url": "" }
+      { "network": "linkedin", "username": "Pommetta Roberts", "url": "LinkedIn.com/in/Pommetta Roberts" }
     ]
   },
   "interests": [
