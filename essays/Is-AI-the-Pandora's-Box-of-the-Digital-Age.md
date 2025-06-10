@@ -8,7 +8,7 @@ labels:
   - Artificial Intelligence
 ---
 
-<img/pandora.jpg>
+img/pandora.jpg
 
 *Is Artificial Intelligence the 'Pandora's Box' of the Digital Age?*
 
