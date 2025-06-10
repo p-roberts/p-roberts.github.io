@@ -8,7 +8,7 @@ labels:
   - Artificial Intelligence
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/AI-with-Pandora's-Box.jpeg>
+<img width="100px" class="rounded float-start pe-4" src="../img/pandora.jpg>
 
 *Is Artificial Intelligence the 'Pandora's Box' of the Digital Age?*
 
