@@ -2,7 +2,6 @@
 layout: essay
 type: essay
 title: "Is Artificial Intelligence the 'Pandora's Box' of the Digital Age?"
-image: img/AI-with-Pandora's-Box.jpeg
 date: 2023-08-07
 published: true
 labels:
