@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: img/download.jpeg
-  - title: "First Project"
-  - date: 2025
+title: "First Project"
+date: 2025
 published: true
 labels:
   - JavaScript
