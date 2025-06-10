@@ -9,7 +9,7 @@ labels:
   - Artificial Intelligence
 ---
 
-<img/AI with Pandora's Box.jpeg" src="../img/difficulty/degree_difficulty.jpg">
+<img/AI-with-Pandora's-Box.jpeg>
 
 *Is Artificial Intelligence the 'Pandora's Box' of the Digital Age?*
 
