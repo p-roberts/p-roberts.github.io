@@ -10,9 +10,9 @@ labels:
 
 <div class="text-center p-4">
   <img width="300px" src="../img/pandora.jpg" class="img-thumbnail" >
-\n
 
-*Is Artificial Intelligence the 'Pandora's Box' of the Digital Age?*
+
+##Is Artificial Intelligence the 'Pandora's Box' of the Digital Age?
 
 Would you ever expect a newborn child to beat a grandmaster at a game of chess (Hunt)? Now, let’s consider the very likely possibility of Artificial Intelligence (AI) becoming a grandmaster, or superintelligence, as we continue to grasp information approximately one billion times slower (Mahendra). The speed in which AI can receive an unbelievable amount of data, then master a given subject can essentially create a “Pandora’s Box” of the digital age. However, this is not a mythological fantasy, this could well be our reality. Our world has already experienced the aftereffect of AI replacing humans in the workforce, which will ultimately affect our economy, if the integration is not limited. Although, policies may lessen the impact on our economy, regulations and policies will not last in controlling autonomous AI in other aspects. Our reality is existentially threatened by the continued autonomous AI development, or even the release of existing AI (e.g., chemical and security threats), which has been deemed by their own creators as potentially lethal. Efforts need to be refocused on mitigations of the existential threats.
 
