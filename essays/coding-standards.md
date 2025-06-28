@@ -25,6 +25,7 @@ Coding standards can vary between programming languages, like JavaScript, Python
 <div style="border: 1px solid #ccc; padding: 10px; margin: 10px;">
 These rules encourage liberal spacing for improved developer readability. The minification process creates a file that is optimized for browsers to read and process.
   <br>
+  <br>
 •	Indentation with tabs.
   <br>
 •	No whitespace at the end of line or on blank lines.
