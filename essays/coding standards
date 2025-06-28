@@ -14,7 +14,7 @@ labels:
   - clang-format
 ---
 
-<img/coding standards>
+<![Coding standards diagram](/img/coding-standards.png)>
 ![alt text](Img source: hongkiat.com)
 
 *ARE “CODING STANDARDS” SIGNIFICANT IF FUNCTIONALITY OF CODE WORKS?*
