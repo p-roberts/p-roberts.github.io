@@ -24,20 +24,35 @@ Coding standards can vary between programming languages, like JavaScript, Python
 
 <div style="border: 1px solid #ccc; padding: 10px; margin: 10px;">
 These rules encourage liberal spacing for improved developer readability. The minification process creates a file that is optimized for browsers to read and process.
+  <br>
 •	Indentation with tabs.
+  <br>
 •	No whitespace at the end of line or on blank lines.
+  <br>
 •	Lines should usually be no longer than 80 characters, and should not exceed 100 (counting tabs as 4 spaces). This is a “soft” rule, but long lines generally indicate unreadable or disorganized code.
+  <br>
 •	if/else/for/while/try blocks should always use braces, and always go on multiple lines.
+  <br>
 •	Unary special-character operators (e.g., ++, --) must not have space next to their operand.
+  <br>
 •	Any , and ; must not have preceding space.
+  <br>
 •	Any ; used as a statement terminator must be at the end of the line.
+  <br>
 •	Any : after a property name in an object definition must not have preceding space.
+  <br>
 •	The ? and : in a ternary conditional must have space on both sides.
+  <br>
 •	No filler spaces in empty constructs (e.g., {}, [], fn()).
+  <br>
 •	There should be a new line at the end of each file.
+  <br>
 •	Any ! negation operator should have a following space.*
+  <br>
 •	All function bodies are indented by one tab, even if the entire file is wrapped in a closure.*
-•	Spaces may align code within documentation blocks or within a line, but only tabs should be used at the start of a line.* </div> (JavaScript Coding Standards – Coding Standards Handbook | Developer.WordPress.org, 2019)
+  <br>
+•	Spaces may align code within documentation blocks or within a line, but only tabs should be used at the start of a line.* </div>
+_(JavaScript Coding Standards – Coding Standards Handbook | Developer.WordPress.org, 2019)_
 
 ## IF IT AIN’T BROKE, DON’T FIX IT, RIGHT?
 
@@ -47,12 +62,17 @@ Many programming languages’ similarities in coding standards, incorporate the 
 ## COMPARE AND CONTRAST
 
 Following my experimentation with ESLint and Prettier with Visual Studio Code (VS Code), has cutdown the time to write code greatly with the ease and speed. It’s like typing an essay with preformatted templates and autocorrect guiding my grammar and punctuation mistakes. Just as a well- formatted essay in a language I understand, e.g., American English, it becomes easier for me to read (along with my Professors, of course). Therefore, I would say that coding standards are as significant, especially when considering collaborative projects, industry standards, and program maintenance. In concluding this essay, I leave the four key benefits of using coding standards by Perforce Software:
-
+<br>
 <div style="border: 1px solid #ccc; padding: 10px; margin: 10px;">
 There are four key benefits of using coding standards:
+  <br>
 1. Compliance with industry standards (e.g., ISO).
+  <br>
 2. Consistent code quality — no matter who writes the code.
+  <br>
 3. Software security from the start.
-4. Reduced development costs and accelerated time to market. </div>  (Intro to Coding Standards — Coding Rules and Guidelines | Perforce Software, n.d.)
+  <br>
+4. Reduced development costs and accelerated time to market. </div>  
+(Intro to Coding Standards — Coding Rules and Guidelines | Perforce Software, n.d.)
 
 
