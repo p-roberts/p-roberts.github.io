@@ -16,7 +16,7 @@ labels:
 
 
 <img width="523" alt="Img source  (hongkiat com) 2" src="https://github.com/user-attachments/assets/92dd4009-e185-48bd-a0c3-3f7eb5c29220" />
-*Img source  (hongkiat.com)*
+*Img source hongkiat.com*
 
 
 *ARE “CODING STANDARDS” SIGNIFICANT IF FUNCTIONALITY OF CODE WORKS?*
