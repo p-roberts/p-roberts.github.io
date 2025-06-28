@@ -14,7 +14,11 @@ labels:
   - clang-format
 ---
 
-![alt text](img/coding-standards.jpg)
+<img width="100px" class="rounded float-start pe-4" src="../ img/coding-standards.jpg
+">
+![image](https://github.com/user-attachments/assets/4e7610e7-b71c-4953-96ee-da7bcc8da972)
+
+
 
 *ARE “CODING STANDARDS” SIGNIFICANT IF FUNCTIONALITY OF CODE WORKS?*
 
