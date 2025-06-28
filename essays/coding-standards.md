@@ -16,6 +16,7 @@ labels:
 
 
 <img width="523" alt="Img source  (hongkiat com) 2" src="https://github.com/user-attachments/assets/92dd4009-e185-48bd-a0c3-3f7eb5c29220" />
+<br>
 *Img source hongkiat.com*
 
 
@@ -55,7 +56,7 @@ These rules encourage liberal spacing for improved developer readability. The mi
 •	All function bodies are indented by one tab, even if the entire file is wrapped in a closure.*
   <br>
 •	Spaces may align code within documentation blocks or within a line, but only tabs should be used at the start of a line.* </div>
-( *JavaScript Coding Standards – Coding Standards Handbook | Developer.WordPress.org, 2019* )
+(*JavaScript Coding Standards – Coding Standards Handbook | Developer.WordPress.org, 2019*)
 
 ## IF IT AIN’T BROKE, DON’T FIX IT, RIGHT?
 
@@ -76,6 +77,6 @@ There are four key benefits of using coding standards:
 3. Software security from the start.
   <br>
 4. Reduced development costs and accelerated time to market. </div>  
-( *Intro to Coding Standards — Coding Rules and Guidelines | Perforce Software, n.d.* )
+(*Intro to Coding Standards — Coding Rules and Guidelines | Perforce Software, n.d.*)
 
 
