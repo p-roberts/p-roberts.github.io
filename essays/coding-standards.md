@@ -22,7 +22,7 @@ labels:
 
 *ARE CODING STANDARDS SIGNIFICANT IF FUNCTIONALITY OF CODE WORKS?*
 
-Coding standards can vary between programming languages, like JavaScript, Python, and C++. For instance, coding standards of syntax and structure can be defined by curly braces in JavaScript, but by indentation in Python, or naming conventions of camelCase or snake_case. Although, these standards would affect the execution of a code, some standards are more trivial than others. One example is spacing. To review spacing coding standards, I provided some common JavaScript spacing rules provided by WordPress Developer Resources: 
+Coding standards can vary between programming languages, like JavaScript, Python, and C++. For instance, coding standards of syntax and structure can be defined by curly braces in JavaScript, but by indentation in Python, or the naming conventions of camelCase or snake_case. Although, these standards would affect the execution of a code, some standards are more trivial than others. One example is spacing. To review spacing coding standards, I share some common JavaScript spacing rules provided by WordPress Developer Resources: 
 <br>
 
 <div style="border: 1px solid #ccc; padding: 10px; margin: 10px;">
@@ -60,12 +60,13 @@ These rules encourage liberal spacing for improved developer readability. The mi
 
 ## IF IT AIN’T BROKE, DON’T FIX IT, RIGHT?
 
-How pertinent are these coding standards, or is it insignificant if your code source runs precisely as expected? When we include the collaborative projects, we must understand the importance of readability amongst your team. Or how about industry standards? Upholding an industry standard increases consistency and ease in using, sharing, or editing your source code. 
-Many programming languages’ similarities in coding standards, incorporate the tools to help enforce their coding standards. Linting tools like JavaScript’s ESLint, or pylint (Python), and cppcheck (C++) to analyze and detect source code errors, inconsistencies, or discrepancies in coding standards. Formatters like Python’s Black, Prettier for JavaScript, or clang-format for C++, that will format code to the stylistic format of a specified code standard. There are Integrated Development Environments (IDE) that support these tools with installed extensions and plugins. VS Code offers several options of readily available extensions.
+How pertinent are these coding standards, or is it insignificant if your code source runs precisely as expected? When we consider collaborative projects, we must understand the importance of readability amongst your team. Or how about industry standards? Upholding an industry standard increases consistency and ease in using, sharing, or editing your source code. 
+
+Luckily, many programming languages are offered the tools to help enforce their coding standards, adding ease to writing. Linting tools like JavaScript’s ESLint, or pylint (Python), and cppcheck (C++) to analyze and detect source code errors, inconsistencies, or discrepancies in coding standards. Formatters like Python’s Black, Prettier for JavaScript, or clang-format for C++, that will format code to the stylistic format of a specified code standard. To add to our luck, there are Integrated Development Environments (IDE) that support these tools with installed extensions and plugins. VS Code offers several options of readily available extensions.
 
 ## COMPARE AND CONTRAST
 
-Following my experimentation with ESLint and Prettier with Visual Studio Code (VS Code), has cutdown the time to write code greatly with the ease and speed. It’s like typing an essay with preformatted templates and autocorrect guiding my grammar and punctuation mistakes. Just as a well- formatted essay in a language I understand, e.g., American English, it becomes easier for me to read (along with my Professors, of course). Therefore, I would say that coding standards are as significant, especially when considering collaborative projects, industry standards, and program maintenance. In concluding this essay, I leave the four key benefits of using coding standards by Perforce Software:
+Following my experimentation with ESLint and Prettier through Visual Studio Code (VS Code), has cutdown the time to write code greatly. It’s like typing an essay with preformatted templates and autocorrect guiding my grammar and punctuation mistakes. Just as a well- formatted essay in a language I understand becomes easier for me to read (along with my Professors, of course), code becomes easier to comb through between fellow collaborators using tools like ESLint, or even manually ensuring schemes and standards are followed. So, whether you use these tools or manually adhere enforce it yourself, I would say that coding standards are as significant, especially when considering collaborative projects, industry standards, and program maintenance. In concluding this essay, I leave the four key benefits of using coding standards by Perforce Software:
 <br>
 <div style="border: 1px solid #ccc; padding: 10px; margin: 10px;">
 There are four key benefits of using coding standards:
