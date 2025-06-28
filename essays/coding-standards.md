@@ -20,7 +20,7 @@ labels:
 *image source: hongkiat.com*
 
 
-*ARE CODING STANDARDS SIGNIFICANT IF FUNCTIONALITY OF CODE WORKS?*
+## ARE CODING STANDARDS SIGNIFICANT IF FUNCTIONALITY OF CODE WORKS?
 
 Coding standards can vary between programming languages, like JavaScript, Python, and C++. For instance, coding standards of syntax and structure can be defined by curly braces in JavaScript, but by indentation in Python, or the naming conventions of camelCase or snake_case. Although, these standards would affect the execution of a code, some standards are more trivial than others. One example is spacing. To review spacing coding standards, I share some common JavaScript spacing rules provided by WordPress Developer Resources: 
 <br>
