@@ -14,9 +14,8 @@ labels:
   - clang-format
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../ img/coding-standard.jpg">
 
-
+![Img source  (hongkiat com)](https://github.com/user-attachments/assets/3ab097e5-a32b-4e43-8ca0-03eb59582f60)
 
 *ARE “CODING STANDARDS” SIGNIFICANT IF FUNCTIONALITY OF CODE WORKS?*
 
