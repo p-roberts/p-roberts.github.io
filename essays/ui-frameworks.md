@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: "How Useful is Bootstrap 5?"
-date: 2025-07=06
+date: 2025-07-06
 published: true
 labels:
   - UI Frameworks
