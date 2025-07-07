@@ -19,16 +19,3 @@ labels:
 
 First, what is Bootstrap 5? According to w3schools.com, Bootstrap is the most popular open-source front-end framework used for “developing creating responsive and mobile-first websites”, with Bootstrap 5 being the newest version. It is basically a toolkit used to help developers create visually appealing websites by providing pre-built components and styles.
 
-## ...
-
-
-
-## ...
-
-
-
-## ...
-
-
-## ...
-
