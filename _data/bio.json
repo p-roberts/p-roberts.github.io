@@ -6,7 +6,7 @@
     "email": "pfrobert@hawaii.edu",
     "phone": "",
     "website": "https://p-roberts.github.io",
-    "summary": "I am studying for a B.S. in Computer Science at the University of Hawaii at Manoa. I expect to graduate in Fall, 2027.",
+    "summary": "I am studying for a B.S. in Computer Science at the University of Hawaii at Manoa. I expect to graduate in Fall, 2028.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "p-roberts", "url": "http://github.com/p-roberts" },
@@ -23,7 +23,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "Python", "C", "C++", "Java", "JavaScript" ]
+      "keywords": [ "Python", "JavaScript" ]
     },
     {
       "name": "Toolsets/OS",
@@ -33,9 +33,9 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Information and Computer Science \n(expected 2026)",
-      "studyType": "B.A.",
-      "startDate": "2024",
+      "area": "Computer Science \n(expected 2027)",
+      "studyType": "B.S.",
+      "startDate": "2028",
       "endDate": "Present",
       "courses": [
       ]
