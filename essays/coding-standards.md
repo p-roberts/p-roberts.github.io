@@ -4,7 +4,7 @@ type: essay
 title: "Are coding standards significant if functionality of code works?"
 # All dates must be YYYY-MM-DD format!
 date: 2025-06-27
-published: true
+published: false
 labels:
   - Coding Standards
   - ESLint
