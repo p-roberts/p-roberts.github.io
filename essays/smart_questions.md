@@ -44,7 +44,7 @@ What can be done to prevent this from happening?"
 My boss said I need to make a website for the company using PHP and JavaScript. I'm completely new to this and don't know where to start. What's the fastest and easiest way to do this? Is there some code you can give me?"
 <br>
 
-## My Concluding Thought...
+## Don't be like Bart Simpson. Ask "smart" questions.
 
 If you run into a problem, try tackling it yourself first. A lot of questions have already been answered, so take a good thorough look through any FAQs or guides you can find. Honestly, I have been surprised at how much info is already out there. If you’re still stuck after doing your homework, look for a forum or community that may match the level of your question. When you finally ask for help, make sure to explain your issue clearly, provide all the details someone would need, and present it in a way you’d appreciate if you were the subject matter expert. This helps others help you faster and saves everyone time in the long run.
 <br>
