@@ -39,7 +39,8 @@ Most of us have heard the old saying, "There is no such thing as a dumb question
 That's because the user can input something like value'); DROP TABLE table;--, and the query becomes:
 [result inserted]
 What can be done to prevent this from happening?"
-•	"Not So Smart" Question (AI Generated - Not a real post!):
+ <br>
+•	"Not So Smart" Question: (AI Generated - Not a real post!):
 "HELP! I need to do a website!:
 My boss said I need to make a website for the company using PHP and JavaScript. I'm completely new to this and don't know where to start. What's the fastest and easiest way to do this? Is there some code you can give me?"
 <br>
