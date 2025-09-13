@@ -23,8 +23,6 @@ Additionally, I experimented with functional programming while tackling algorith
 I also benefited from using the interactive learning platform codecademy.com. If you are interested in exploring TypeScript, especially if you already have some experience with JavaScript, I highly recommend trying out Codecademy. It provides valuable opportunities to compare the two languages and assess how TypeScript can enhance your development skills.
 
 <br>
-
-<div style="border: 1px solid #ccc; padding: 10px; margin: 10px;">
 Benefits of TypeScript
   <br>
   <br>
