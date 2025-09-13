@@ -10,9 +10,7 @@ labels:
 ---
 
 
-<img width="523" alt="Img source: curotec.com of TypeScript vs. JavaScript" ![TypeScript-vs -JavaScript-5](https://github.com/user-attachments/assets/c0435e84-f4ff-423d-a4ae-1599eb191061)
- />
-<br>
+![TypeScript-vs -JavaScript-5](https://github.com/user-attachments/assets/e690681a-49e1-4d96-83c7-ba6ac07bf58a)
 *image source: [curotec.com]*
 
 
