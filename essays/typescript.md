@@ -11,6 +11,7 @@ labels:
 
 
 ![TypeScript-vs -JavaScript-5](https://github.com/user-attachments/assets/e690681a-49e1-4d96-83c7-ba6ac07bf58a)
+<br>
 *image source: [curotec.com]*
 
 
