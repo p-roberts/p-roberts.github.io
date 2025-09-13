@@ -43,7 +43,6 @@ Benefits of TypeScript
 There are numerous advantages to utlizing TypeScript. As Paul Bratslavsky points out in his article "Top 6 Benefits of Implementing TypeScript," adopting TypeScript keeps your code in line with current industry standards and helps ensure your applications are ready for the future. Whether you’re just starting out and looking to strengthen your JavaScript skills, hoping to benefit from more efficient syntax, or aiming to make teamwork smoother on group projects, learning TypeScript is a great way to prepare for or advance a career in software engineering.
 
 <br>
-<div style="border: 1px solid #ccc; padding: 10px; margin: 10px;">
 
   <br>
 
