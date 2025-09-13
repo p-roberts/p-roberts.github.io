@@ -30,7 +30,7 @@ Most of us have heard the old saying, "There is no such thing as a dumb question
 •	Size matters! Simplify code, but also be informative in your headlines and questions.
   <br>
 
-## Example of a "Smart" Questions and a "Not So Smart" Questions on StackOverflow:
+## Example of a "Smart" Question and a "Not So Smart" Question on StackOverflow:
 
 •	"Smart" Question: 
 ["How can I prevent SQL injection in PHP?](https://stackoverflow.com/questions/60174/how-can-i-prevent-sql-injection-in-php)
