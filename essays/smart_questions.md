@@ -46,12 +46,6 @@ My boss said I need to make a website for the company using PHP and JavaScript. 
 
 ## My Concluding Thought...
 
-There are numerous advantages to utlizing TypeScript. As Paul Bratslavsky points out in his article "Top 6 Benefits of Implementing TypeScript," adopting TypeScript keeps your code in line with current industry standards and helps ensure your applications are ready for the future. Whether you’re just starting out and looking to strengthen your JavaScript skills, hoping to benefit from more efficient syntax, or aiming to make teamwork smoother on group projects, learning TypeScript is a great way to prepare for or advance a career in software engineering.
+If you run into a problem, try tackling it yourself first. A lot of questions have already been answered, so take a good thorough look through any FAQs or guides you can find. Honestly, I have been surprised at how much info is already out there. If you’re still stuck after doing your homework, look for a forum or community that may match the level of your question. When you finally ask for help, make sure to explain your issue clearly, provide all the details someone would need, and present it in a way you’d appreciate if you were the subject matter expert. This helps others help you faster and saves everyone time in the long run.
 <br>
-
-## My Concluding Thought...
-
-There are numerous advantages to utlizing TypeScript. As Paul Bratslavsky points out in his article "Top 6 Benefits of Implementing TypeScript," adopting TypeScript keeps your code in line with current industry standards and helps ensure your applications are ready for the future. Whether you’re just starting out and looking to strengthen your JavaScript skills, hoping to benefit from more efficient syntax, or aiming to make teamwork smoother on group projects, learning TypeScript is a great way to prepare for or advance a career in software engineering.
-<br>
-
 <br>
