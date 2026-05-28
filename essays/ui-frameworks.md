@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "The Benefits and a Possible Drawback of UI Frameworks Like Bootstrap 5"
 date: 2025-10-09
-published: true
+published: false
 labels:
   - UI Frameworks
   - Bootstrap 5
