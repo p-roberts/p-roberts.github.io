@@ -14,11 +14,10 @@
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
+    { "name": "User Experience (UX) & Human-Computer Interaction (HCI)" }
+      { "name": "Interactive media" },
     { "name": "Artificial Intelligence (AI)" },
     { "name": "App Design" },
-    { "name": "3D Modeling" },
-    { "name": "3D Graphics" }
   ],
   "skills": [
     {
@@ -33,8 +32,8 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science \n(expected 2028)",
-      "studyType": "B.S.",
+      "area": "Interdisciplinary Studies: Computer Science, Psychology, and Business  \n(expected 2027)",
+      "studyType": "B.A.",
       "startDate": "2024",
       "endDate": "Present",
       "courses": [
