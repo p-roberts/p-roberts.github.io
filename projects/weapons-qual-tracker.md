@@ -21,4 +21,4 @@ The table consists of six columns: Name, Rank, Weapon, Score, Qualification, and
 
 This project reinforced my understanding of HTML structure, CSS table styling, and GitHub project development. Building this tool also highlighted the importance of maintaining accurate Soldier data to support leadership decisions and contribute to overall unit readiness and promotion eligibility.
 
-## Source: [Try the Tracker](weapons-qual-tracker.html)
+## Source: [Try the Tracker](https://p-roberts.github.io/weapons-qual-tracker.html)
