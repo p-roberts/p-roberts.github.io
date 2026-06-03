@@ -5,7 +5,7 @@ title: "Is Artificial Intelligence the 'Pandora's Box' of the Digital Age?"
 date: 2026-05-27
 published: true
 labels:
-  - Artificial Intelligence
+  - Artificial Intelligence 
 ---
 
 ![AI with Pandora's Box](https://github.com/user-attachments/assets/c1fd9f9c-c4c1-4abb-8493-d2a41d27372b)
