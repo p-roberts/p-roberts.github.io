@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: /img/ACFT-grading-table
+image: img/ACFT-grading-table.jpg
 title: "Army Fitness Test Basic Calculator"
 date: 2026
 published: true
@@ -11,7 +11,7 @@ labels:
   - Army Fitness
   - Holistic Health and Fitness
   - H2F
-summary: "A basic caculator to compute the total score of the Army Fitness Test. "
+summary: "A basic calculator to compute the total score of the Army Fitness Test. "
 --- 
 
 <img width="1536" height="864" alt="ACFT-grading-table-1536x864" src="https://github.com/user-attachments/assets/ffb8cff1-9014-4214-b661-43dec93d48cf" />
