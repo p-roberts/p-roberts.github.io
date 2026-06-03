@@ -10,7 +10,7 @@ labels:
 summary: "A basic tracker to maintain . "
 --- 
 
-<img width="1254" height="1254" alt="weapons-qual-tracker" src="https://github.com/user-attachments/assets/4583f8bf-4fba-4078-8ae4-fa38895171ec" />
+<img width="500" height="500" alt="weapons-qual-tracker" src="https://github.com/user-attachments/assets/4583f8bf-4fba-4078-8ae4-fa38895171ec" />
 
 
 # Army Weapons Qualification Tracker
@@ -21,4 +21,4 @@ The table consists of six columns: Name, Rank, Weapon, Score, Qualification, and
 
 This project reinforced my understanding of HTML structure, CSS table styling, and GitHub project development. Building this tool also highlighted the importance of maintaining accurate Soldier data to support leadership decisions and contribute to overall unit readiness and promotion eligibility.
 
-## Source: [Try the Tracker]()
+## Source: [Try the Tracker](weapons-qual-tracker.html)
