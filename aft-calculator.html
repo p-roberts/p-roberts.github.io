@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AFT Calculator</title>
+</head>
+<body>
+    <h1> Army Fitness Test Calculator</h1>
+    <br>
+    <div>
+        <strong>
+        WARNING: Information may not be up to date. 
+        Please refer to www.army.mil/aft or Army Directive 2026-07
+        </strong>
+    </div>
+    <br>
+    <p>
+        "H2F is helping us change the culture of fitness in the United States Army. 
+        We've seen improvements to Soldier readiness and overall health because of H2F."<br><br> 
+        - SMA Michael R. Weimer
+        17th Sergeant Major of the Army
+    </p>
+    <br><br>
+    <div class="event">
+        <label>3 Repetition Maximum Deadlift</label>
+        <input type="number" id="MDL" />
+    </div>
+    <br>
+
+   <div class="event">
+        <label>Hand Release Push-Up</label>
+        <input type="number" id="HRP" />
+    </div>
+    <br>
+
+    <div class="event">
+        <label>Sprint-Drag-Carry</label>
+        <input type="number" id="SDC" />
+    </div> 
+    <br>
+
+    <div class="event">
+        <label>Plank</label>
+        <input type="number" id="PLK" />
+    </div>
+    <br>
+
+    <div class="event">
+        <label>Two-Mile Run</label>
+        <input type="number" id="TMR" />
+    </div>
+    <br>
+
+    <button onclick="calculate()">Calculate</button>
+    <p id='result'></p>
+    <script>
+        function calculate()
+        {
+            const mdl = Number(document.getElementById('MDL').value);
+            const hrp = Number(document.getElementById('HRP').value);
+            const sdc = Number(document.getElementById('SDC').value);
+            const plk = Number(document.getElementById('PLK').value);
+            const tmr = Number(document.getElementById('TMR').value);
+            const total = mdl + hrp + sdc + plk + tmr;
+
+            if (total >= 300)
+        {
+            document.getElementById('result').innerHTML = 'Total: ' + total + ' - PASS';
+        }
+        else
+        {
+            document.getElementById('result').innerHTML = 'Total: ' + total + ' - FAIL';
+        }
+        }
+    </script>
+</body>
+</html>
