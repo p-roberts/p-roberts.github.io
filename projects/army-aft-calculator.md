@@ -25,4 +25,4 @@ This project introduced me to core web development concepts including HTML struc
 
 Building this tool reinforced my understanding of JavaScript logic, HTML framework, GitHub project development, and the importance of citing official sources when developing applications that impact real people's careers and readiness.
 
-## Source: [army.mil/aft](https://www.army.mil/aft)
+## Source: [Try the Calculator](https://p-roberts.github.io/aft-calculator.html)
