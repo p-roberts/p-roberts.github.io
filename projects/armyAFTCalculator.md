@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: /Users/p-roberts/aft-score-table.jpg
+image: /img/ACFT-grading-table
 title: "Army Fitness Test Basic Calculator"
 date: 2026
 published: true
