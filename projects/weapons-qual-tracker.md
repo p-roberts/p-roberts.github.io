@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/AFT-grading-table.jpg
+image: img/weapons-qual-tracker.jpg
 title: "Army Weapons Qualification Tracker"
 date: 2026
 published: true
