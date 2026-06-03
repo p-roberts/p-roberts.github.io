@@ -25,4 +25,4 @@ This project is still actively under development—as you may notice with my "Un
 
 
 
-## Source: [Try the Site](p-roberts.github.io/leaders-book.html)
+## Source: [Try the Site](https://p-roberts.github.io/leaders-book.html)
