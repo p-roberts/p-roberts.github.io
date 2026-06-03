@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/ACFT-grading-table.jpg
+image: img/AFT-grading-table.jpg
 title: "Army Fitness Test Basic Calculator"
 date: 2026
 published: true
