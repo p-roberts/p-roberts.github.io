@@ -14,11 +14,7 @@ labels:
 summary: "A basic caculator to compute the total score of the Army Fitness Test. "
 --- 
 
-<img src=https://acftcalculatorus.com/wp-content/uploads/2025/10/ACFT-grading-table-1536x864.webp alt = 'AFT Test Score Table'/>
-
-
-
-
+<img width="1536" height="864" alt="ACFT-grading-table-1536x864" src="https://github.com/user-attachments/assets/ffb8cff1-9014-4214-b661-43dec93d48cf" />
 
 # Army Fitness Test (AFT) Calculator
 
