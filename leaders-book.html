@@ -1,0 +1,499 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Leader's Book</title>
+    <style>
+        body    { font-family: Arial, sans-serif; padding: 20px; max-width: 860px; margin: 0 auto; }
+        .tabs   { margin-bottom: 16px; }
+        .tabs button { margin: 3px 2px; padding: 6px 12px; cursor: pointer; }
+        .tabs button.active { font-weight: bold; text-decoration: underline; }
+        .page   { display: none; }
+        .page.active { display: block; }
+        label   { font-weight: bold; display: block; margin-top: 12px; margin-bottom: 3px; }
+        input, textarea, select { width: 100%; padding: 6px; box-sizing: border-box; }
+        table   { border-collapse: collapse; width: 100%; margin-top: 10px; }
+        th, td  { border: 1px solid #999; padding: 6px; text-align: left; }
+        td input, td select { width: 100%; border: none; padding: 2px; }
+        .two    { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+    </style>
+</head>
+<body>
+    <h1>
+        Leader's Book
+    </h1>
+
+    <div class="tabs">
+        <button onclick="show('soldiers-creed', this)" class="active">Soldier's Creed</button>
+        <button onclick="show('nco-creed', this)" class="active">Creed of the Non-Commissioned Officer</button>
+        <button onclick="show('general-orders', this)" class="active">General Orders</button>
+        <button onclick="show('code-of-conduct', this)" class="active">Code of Conduct</button>
+        <button onclick="show('army-song', this)" class="active">The Army Song</button>
+        <button onclick="show('mos-corps', this)" class="active">MOS Corps</button>
+        <button onclick="show('uniform-standards', this)" class="active">Uniform Standards</button>
+        <button onclick="show('packing-list', this)" class="active">Packing List</button>
+        <button onclick="show('unit-history', this)" class="active">Unit History</button>
+        <button onclick="show('unit-traditions', this)" class="active">Unit Traditions</button>
+        <button onclick="show('mission', this)" class="active">Mission Statements</button>
+        <button onclick="show('chain-of-command', this)" class="active">Chain of Command</button>
+        <button onclick="show('nco-support', this)" class="active">NCO Support Channel</button>
+        <button onclick="show('roster', this)" class="active">Roster</button>
+        <button onclick="show('aft-standards', this)" class="active">AFT Standards and Calculator</button>
+        <button onclick="show('aft-scores', this)" class="active">AFT Scores</button>
+        <button onclick="show('weapons-qual', this)" class="active">Weapons Qualification Tracker</button>
+        <button onclick="show('certifications', this)" class="active">Certifications</button>
+        <button onclick="show('individual-dev', this)" class="active">Individual Development</button>
+        <button onclick="show('contacts', this)" class="active">Contacts</button>
+    </div>
+    
+    <div class="page" id="soldiers-creed">
+        <h2>
+            Soldier's Creed
+        </h2>
+        <p>
+            I am an American Soldier.
+            <br><br>
+            I am a Warrior and a member of a team. I serve the people of the United States and live the Army Values. 
+            <br><br>
+            I will always place the mission first. I will never accept defeat. 
+            <br><br>
+            I will never quit. I will never leave a fallen comrade.
+            <br><br>
+            I am disciplined, physically, and mentally tough; Trained and proficient in my warrior tasks and drills; 
+            I will always maintain my arms, my equip-ment, and myself.
+            <br><br>
+            I am an expert and I am a professional. I stand ready to deploy, engage, and destroy the enemies of the 
+            United States of America in close combat.
+            <br><br>
+            I am a guardian of freedom and the American way of life.
+            <br><br>
+            I am an American Soldier.
+
+        </p>
+    </div>
+    
+    <div class="page" id="nco-creed">
+        <h2>
+            Creed of the Non-Commissioned Officer
+        </h2>
+        <p>
+            No one is more professional than I. I am a Noncommissioned Officer, a leader of Soldiers. 
+            As a Noncommissioned Officer, I realize that I am a member of a time-honored Corps, which is known as “The Backbone of the Army.” 
+            I am proud of the Corps of Noncommissioned officers and will at all times conduct myself so as to bring credit upon the Corps, 
+            the Military Service, and my country regardless of the situation in which I find myself. 
+            I will not use my grade or position to attain pleasure, profit or personal safety.
+            <br><br>
+            Competence is my watch-word. My two basic responsibilities will always be uppermost in my mind-accomplishment of my mission and 
+            the welfare of my Soldiers. I will strive to remain technically and tactically proficient. I am aware of my role as a Noncommissioned Officer. 
+            I will fulfill my responsibilities inherent in that role. All Soldiers are entitled to outstanding leadership; I will provide that leadership. 
+            I know my Soldiers and I will always place their needs above my own. I will communicate consistently with my Soldiers and never leave them uninformed. 
+            I will be fair and impartial when recommending both rewards and punishments.
+            <br><br>
+            Officers of my unit will have maximum time to accomplish their duties; they will not have to accomplish mine. I will earn their respect and confidence 
+            as well as that of my Soldiers. I will be loyal to those with whom I serve; seniors, peers and subordinates alike. I will exercise initiative by taking 
+            the appropriate action in the absence of orders. I will not compromise my integrity nor my moral courage. I will not forget, nor will I allow my comrades 
+            to forget that we are professionals, Noncommissioned officers, leaders!
+            <br>
+        </p>
+    </div>
+
+    <div class="page" id="general-orders">
+        <h2>
+            General Orders
+        </h2>
+        <p>
+            1. I will guard everything within the limits of my post and quit my post
+                only when properly relieved.
+                <br><br>
+            2. I will obey my special orders and perform all of my duties in a
+                military manner.
+                <br><br>
+            3. I will report violations, emergencies, and anything not covered in my instructions to the Commander of
+                the relief.
+
+        </p>
+    </div>
+
+    <div class="page" id="code-of-conduct">
+        <h2>
+            Code of Conduct
+        </h2>
+        <p>
+            I am an American, fighting in the forces which guard my country and our way of life. I am pre-pared to give my life in their defense.
+            <br><br>
+            I will never surrender of my own free will. If in command, I will never surrender the members of my command while they still have the means to resist.
+            <br><br>
+            If I am captured, I will continue to resist by all means available. I will make every effort to escape and aid others to escape. I will accept neither 
+            parole nor special favors from the enemy.
+            <br><br>
+            If I become a prisoner of war, I will keep faith with my fellow prisoners. I will give no information or take part in any action which might be harmful 
+            to my comrades. If I am senior, I will take command. If not, I will obey the lawful orders of those appointed over me and will back them up in every way.
+            <br><br>
+            When questioned, should I become a prisoner of war, I am required to give only my name, rank, service number and date of birth. I will evade answering 
+            further questions to the utmost of my ability. I will make no oral or writ-ten statement disloyal to my country and its allies or harmful to their cause.
+            <br><br>
+            I will never forget that I am an American, fighting for freedom, responsible for my actions and dedicated to the principles which made my country free. 
+            I will trust in my God and in the United States of America.
+        </p>
+    </div>
+
+    <div class="page" id="army-song">
+        <h2>
+            The Army Song
+        </h2>
+        <p>
+            March along, sing our song, With the Army of the free. Count the brave, count the true, Who have fought to victory. We're the Army and proud of our name, 
+            We're the Army and proudly proclaim.
+            <br><br>
+            First to fight for the right, And to build the Nation's might, And the Army goes Rolling Along. Proud of all we have done, Fighting till the battle's won, 
+            And the Army Goes Rolling Along.
+            <br><br>
+            Refrain
+            <br><br>
+            Then it's Hi! Hi! Hey! The Army's on its way. Count of the cadence loud and strong, For where e'er we go,
+            You will always know, That the Army Goes Rolling Along.
+            <br><br>
+            Valley Forge, Custer's ranks, San Juan Hill and Patton's Tanks, And the Army went rolling laterally. Minutemen from the start, Always fighting from the heart, 
+            And the Army keeps rolling along.
+            <br><br>
+            Refrain:
+            <br><br>
+            Men in rags, men who froze, Still the Army met its foes, And the Army went rolling along.
+            <br><br>
+            Faith in God, then we're right, And we'll fight with all our might, As the Army keeps rolling along 
+            <br><br>
+        </p>
+    </div>
+
+    <div class="page" id="mos-corps">
+        <h2>
+            MOS Corps
+        </h2>
+        <p>
+            "Under Development..."
+        </p>
+    </div>
+
+    <div class="page" id="uniform-standards">
+        <h2>
+            Uniform Standards
+        </h2>
+        <p>
+            "Under Development..."
+        </p>
+    </div>
+
+     <div class="page" id="packing-list">
+        <h2>
+            Packing List
+        </h2>
+        <p>
+            "Under Development..."
+        </p>
+    </div>
+
+    <div class="page" id="unit-history">
+        <h2>
+            Unit History
+        </h2>
+        <p>
+            "Under Development..."
+        </p>
+    </div>
+
+    <div class="page" id="unit-traditions">
+        <h2>
+            Unit Traditions
+        </h2>
+        <p>
+            "Under Development..."
+        </p>
+    </div>
+
+    <div class="page" id="mission">
+        <h2>
+            Mission Statements
+        </h2>
+        <p>
+            "Under Development..."
+        </p>
+    </div>
+
+    <div class="page" id="chain-of-command">
+        <h2>
+            Chain of Command
+        </h2>
+        <p>
+            "Under Development..."
+        </p>
+    </div>
+
+    <div class="page" id="nco-support">
+        <h2>
+            NCO Support Channel
+        </h2>
+        <p>
+            "Under Development..."
+        </p>
+    </div>
+
+    <div class="page" id="roster">
+        <h2>
+            Roster
+        </h2>
+        <p>
+            "Under Development..."
+        </p>
+    </div>
+
+    <div class="page" id="aft-standards">
+        <h2>
+            AFT Standards and Calculator
+        </h2>
+
+        <h1> Army Fitness Test Calculator</h1>
+        <br>
+        <div>
+            <strong>
+            WARNING: Information may not be up to date. 
+            Please refer to www.army.mil/aft or Army Directive 2026-07
+            </strong>
+        </div>
+        <br>
+        <p>
+            "H2F is helping us change the culture of fitness in the United States Army. 
+            We've seen improvements to Soldier readiness and overall health because of H2F."
+            <br><br>
+            - SMA Michael R. Weimer
+            <br>
+            17th Sergeant Major of the Army
+        </p>
+        <br><br>
+        <div class="event">
+            <label>3 Repetition Maximum Deadlift</label>
+            <input type="number" id="MDL" />
+        </div>
+        <br>
+
+        <div class="event">
+            <label>Hand Release Push-Up</label>
+            <input type="number" id="HRP" />
+        </div>
+        <br>
+
+        <div class="event">
+            <label>Sprint-Drag-Carry</label>
+            <input type="number" id="SDC" />
+        </div> 
+        <br>
+
+        <div class="event">
+            <label>Plank</label>
+            <input type="number" id="PLK" />
+        </div>
+        <br>
+
+        <div class="event">
+            <label>Two-Mile Run</label>
+            <input type="number" id="TMR" />
+        </div>
+        <br>
+
+        <button onclick="calculate()">Calculate</button>
+        <p id='result'></p>
+        <script>
+            function calculate()
+            {
+                const mdl = Number(document.getElementById('MDL').value);
+                const hrp = Number(document.getElementById('HRP').value);
+                const sdc = Number(document.getElementById('SDC').value);
+                const plk = Number(document.getElementById('PLK').value);
+                const tmr = Number(document.getElementById('TMR').value);
+                const total = mdl + hrp + sdc + plk + tmr;
+
+                if (total >= 300)
+            {
+                document.getElementById('result').innerHTML = 'Total: ' + total + ' - PASS';
+            }
+            else
+            {
+                document.getElementById('result').innerHTML = 'Total: ' + total + ' - FAIL';
+            }
+            }
+        </script>
+
+    </div>
+
+        <div class="page" id="aft-scores">
+        <h2>
+            AFT Scores
+        </h2>
+        <p>
+            "Under Development..."
+        </p>
+    </div>
+
+    <div class="page" id="weapons-qual">
+        <h2>
+            Weapons Qualification Tracker
+        </h2>
+        <p>
+        <h1> Army Weapons Qualification Tracker</h1>
+        <br>
+        <div>
+        <strong>
+            WARNING: Information may not be up to date. 
+            Please refer to proper Army publications.
+        </strong>
+        </div>
+        <br>
+        <p>
+            "It's not people first versus readiness; it's people first that equals readiness in the Army.
+            If I'm more fit, I'm a better [rifleman]; that's about me as a person. If I'm not fit and I can't
+            shoot my weapon, I'm not very lethal."
+            <br><br>
+            - SMA Michael Grinston
+            <br>
+            16th Sergeant Major of the Army (SMA)
+        </p>
+        <br>
+        <br>
+
+        <table>
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Rank</th>
+                    <th>Weapon</th>
+                    <th>Score</th>
+                    <th>Qualification</th>
+                    <th>Date</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><input type = 'text' /></td>
+                    <td><input type = 'text' /></td>
+                    <td><input type = 'text' /></td>
+                    <td><input type = 'text' /></td>
+                    <td><input type = 'text' /></td>
+                    <td><input type = 'text' /></td>
+                </tr>
+                <tr>
+                    <td><input type = 'text' /></td>
+                    <td><input type = 'text' /></td>
+                    <td><input type = 'text' /></td>
+                    <td><input type = 'text' /></td>
+                    <td><input type = 'text' /></td>
+                    <td><input type = 'text' /></td>
+                </tr>
+                <tr>
+                    <td><input type = 'text' /></td>
+                    <td><input type = 'text' /></td>
+                    <td><input type = 'text' /></td>
+                    <td><input type = 'text' /></td>
+                    <td><input type = 'text' /></td>
+                    <td><input type = 'text' /></td>
+                </tr>
+                <tr>
+                    <td><input type = 'text' /></td>
+                    <td><input type = 'text' /></td>
+                    <td><input type = 'text' /></td>
+                    <td><input type = 'text' /></td>
+                    <td><input type = 'text' /></td>
+                    <td><input type = 'text' /></td>
+                </tr>
+                <tr>
+                    <td><input type = 'text' /></td>
+                    <td><input type = 'text' /></td>
+                    <td><input type = 'text' /></td>
+                    <td><input type = 'text' /></td>
+                    <td><input type = 'text' /></td>
+                    <td><input type = 'text' /></td>
+                </tr>
+                <tr>
+                    <td><input type = 'text' /></td>
+                    <td><input type = 'text' /></td>
+                    <td><input type = 'text' /></td>
+                    <td><input type = 'text' /></td>
+                    <td><input type = 'text' /></td>
+                    <td><input type = 'text' /></td>
+                </tr>
+                <tr>
+                    <td><input type = 'text' /></td>
+                    <td><input type = 'text' /></td>
+                    <td><input type = 'text' /></td>
+                    <td><input type = 'text' /></td>
+                    <td><input type = 'text' /></td>
+                    <td><input type = 'text' /></td>
+                </tr>
+                <tr>
+                    <td><input type = 'text' /></td>
+                    <td><input type = 'text' /></td>
+                    <td><input type = 'text' /></td>
+                    <td><input type = 'text' /></td>
+                    <td><input type = 'text' /></td>
+                    <td><input type = 'text' /></td>
+                </tr>
+                <tr>
+                    <td><input type = 'text' /></td>
+                    <td><input type = 'text' /></td>
+                    <td><input type = 'text' /></td>
+                    <td><input type = 'text' /></td>
+                    <td><input type = 'text' /></td>
+                    <td><input type = 'text' /></td>
+                </tr>
+                <tr>
+                    <td><input type = 'text' /></td>
+                    <td><input type = 'text' /></td>
+                    <td><input type = 'text' /></td>
+                    <td><input type = 'text' /></td>
+                    <td><input type = 'text' /></td>
+                    <td><input type = 'text' /></td>
+                </tr>
+            </tbody>
+        </table>        
+
+        </p>
+    </div>
+
+    <div class="page" id="certifications">
+        <h2>
+            Certifications
+        </h2>
+        <p>
+            "Under Development..."
+        </p>
+    </div>
+
+    <div class="page" id="individual-dev">
+        <h2>
+            Individual Development
+        </h2>
+        <p>
+            "Under Development..."
+        </p>
+    </div>
+
+    <div class="page" id="contacts">
+        <h2>
+            Contacts
+        </h2>
+        <p>
+            "Under Development..."
+        </p>
+    </div>
+
+<script>
+    function show(pageId, btn)
+    {
+        document.querySelectorAll('.page').forEach(p => p.classList.remove('active'));
+        document.querySelectorAll('.tabs button').forEach(b => b.classList.remove('active'));
+        document.getElementById(pageId).classList.add('active');
+        btn.classList.add('active');
+    }
+</script>
+
+</body>
+</html>
