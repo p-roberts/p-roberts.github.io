@@ -4,7 +4,7 @@ type: project
 image: img/download.jpeg
 title: "First Project"
 date: 2025
-published: true
+published: false
 labels:
   - JavaScript
   - TypeScript
