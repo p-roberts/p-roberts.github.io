@@ -11,7 +11,7 @@ labels:
   - Army Fitness
   - Holistic Health and Fitness
   - H2F
-summary: "A basic caculator to compute the total score of the Army Fitness Test."
+summary: "A basic caculator to compute the total score of the Army Fitness Test. "
 --- 
 
 <img src=https://acftcalculatorus.com/wp-content/uploads/2025/10/ACFT-grading-table-1536x864.webp alt = 'AFT Test Score Table'/>
