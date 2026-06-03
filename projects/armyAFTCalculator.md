@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: /Users/p-roberts/aft-score-table.jpg
-title: "Cotton"
+title: "Army Fitness Test Basic Calculator"
 date: 2026
 published: true
 labels:
