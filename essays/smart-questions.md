@@ -20,7 +20,7 @@ labels:
 Most of us have heard the old saying, "There is no such thing as a dumb question." But if we’re being honest, not every question is equally effective. As a new coder, learning how to ask smart questions—after ["RTFM"](http://www.catb.org/esr/faqs/smart-questions.html#rtfm) or ["STFW"](http://www.catb.org/esr/faqs/smart-questions.html#rtfm)—is a skill itself. Eric Steven Raymond's guide, "How to Ask Questions the Smart Way," argues there might be such a thing as a stupid question after all. Raymond's guide provides a guideline for newbies in the software engineering world on seeking help more efficiently. The idea is that while curiosity is always welcome, how you ask matters. A poorly written—or even a lazy—question can make things harder for everyone involved. So maybe it’s not about whether a question is dumb, but whether it’s asked competently.
 <br><br>
 
-## Some Pointers to Smart Questions:
+## Some Pointers to Smart Questions
   <br>
   
 #### Research. 
@@ -36,7 +36,7 @@ Most of us have heard the old saying, "There is no such thing as a dumb question
 > Size matters. Simplifying code helps others read through your program more easily to assess, along with informative headlines and questions.
 
 <br><br>
-## A "Smart" vs. "Not So Smart" Question on StackOverflow:
+## A "Smart" vs. "Not So Smart" Question on StackOverflow
 <br>
 
 ### ["Smart" Question: How can I prevent SQL injection in PHP?](https://stackoverflow.com/questions/60174/how-can-i-prevent-sql-injection-in-php)
@@ -50,7 +50,7 @@ Most of us have heard the old saying, "There is no such thing as a dumb question
 The user provided their code, described their attempt at a fix, and showed a follow-up result—giving responders everything they needed to help. The user clearly did their homework and conducted research, was mindful of the technical level of StackOverflow, ensured accuracy by providing code and steps taken, and lastly,  provided a simplified version of their code to assess. 
 <br><br>
 
-### "Not So Smart" Question (AI Generated - Not a real post!):
+### "Not So Smart" Question (AI Generated - Not a real post!)
 
 
 "HELP! I need to do a website!:
@@ -60,7 +60,7 @@ No research, no mindfulness, no accuracy, no to simplification... no problem to 
 <br><br>
 
 
-## Don't be like Bart Simpson. Ask "smart" questions.
+## Don't be like Bart Simpson. Ask "smart" questions
 
 When you hit a problem, try tackling it yourself first. Most questions—especially common ones—have already been answered somewhere. Proper due diligence is all it takes. Dig through FAQs, docs, or guides before posting. If you’re still stuck after doing your homework, look for a forum or community that may match the level of your question. When you ask for help, explain your issue clearly, provide all relevant details, and present it in a way you’d want to receive it if you were the expert. This helps others help you faster—and saves everyone time in the long run.
 <br>
