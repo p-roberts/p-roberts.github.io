@@ -13,14 +13,15 @@ labels:
 ![dumb-questions](https://github.com/user-attachments/assets/9375705b-e3d2-4018-bd67-03e4e9685cd0)
 
 *image source: [[haarpia.wordpress.com](https://haarpia.wordpress.com/tag/bart-simpson/)]*
-
+<br><br>
 
 ## There is no Such Thing as a Dumb Question... or Is There?
-
+<br>
 Most of us have heard the old saying, "There is no such thing as a dumb question." But if we’re being honest, not every question is equally effective. As a new coder, learning how to ask smart questions—after ["RTFM"](http://www.catb.org/esr/faqs/smart-questions.html#rtfm) or ["STFW"](http://www.catb.org/esr/faqs/smart-questions.html#rtfm)—is a skill itself. Eric Steven Raymond's guide, "How to Ask Questions the Smart Way," argues there might be such a thing as a stupid question after all. Raymond's guide provides a guideline for newbies in the software engineering world on seeking help more efficiently. The idea is that while curiosity is always welcome, how you ask matters. A poorly written—or even a lazy—question can make things harder for everyone involved. So maybe it’s not about whether a question is dumb, but whether it’s asked competently.
+<br>
 
 ## Some Pointers to Smart Questions:
-  
+  <br>
 #### Research. 
 > As indicated by "RTFM" or "STFW", try to look for the answer before posting in a forum.
   
@@ -34,22 +35,28 @@ Most of us have heard the old saying, "There is no such thing as a dumb question
 > Size matters. Simplifying code helps others read through your program more easily to assess, along with informative headlines and questions.
 
 ## A "Smart" vs. "Not So Smart" Question on StackOverflow:
+<br>
 
 ### ["Smart" Question: How can I prevent SQL injection in PHP?](https://stackoverflow.com/questions/60174/how-can-i-prevent-sql-injection-in-php)
+
 
 <img width="500" height="500" alt="stackoverflow-smart-question" src="https://github.com/user-attachments/assets/02fdfb2c-383d-4374-874e-10baf7b93e8d" />
 
  <small> *image source: [stackoverflow.com]* </small>
  
-<br>
+
 The user provided their code, described their attempt at a fix, and showed a follow-up result—giving responders everything they needed to help. The user clearly did their homework and conducted research, was mindful of the technical level of StackOverflow, ensured accuracy by providing code and steps taken, and lastly,  provided a simplified version of their code to assess. 
+<br>
 
 ### "Not So Smart" Question (AI Generated - Not a real post!):
+
 
 "HELP! I need to do a website!:
 My boss said I need to make a website for the company using PHP and JavaScript. I'm completely new to this and don't know where to start. What's the fastest and easiest way to do this? Is there some code you can give me?"
 In this example, the user is not asking for guidance—they're asking for the project to be done for them. There's no evidence of prior research, no specific problem, and no context. Questions like this almost always go unanswered. 
 No research, no mindfulness, no accuracy, no to simplification... no problem to solve.
+<br>
+
 
 ## Don't be like Bart Simpson. Ask "smart" questions.
 
