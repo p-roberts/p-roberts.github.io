@@ -34,22 +34,17 @@ Most of us have heard the old saying, "There is no such thing as a dumb question
 
 ### ["Smart" Question: How can I prevent SQL injection in PHP?](https://stackoverflow.com/questions/60174/how-can-i-prevent-sql-injection-in-php)
 
-<br>
 <img width="952" height="758" alt="stackoverflow-smart-question" src="https://github.com/user-attachments/assets/02fdfb2c-383d-4374-874e-10baf7b93e8d" />
  *image source: [stackoverflow.com]*
-
-<br><br>
-The user provided their code, described their attempt at a fix, and showed a follow-up result—giving responders everything they needed to help. The user clearly did their homework and conducted research, was mindful of the technical level of StackOverflow, ensured accuracy by providing code and steps taken, and lastly,  provided a simplified version of their code to assess. 
 <br>
+The user provided their code, described their attempt at a fix, and showed a follow-up result—giving responders everything they needed to help. The user clearly did their homework and conducted research, was mindful of the technical level of StackOverflow, ensured accuracy by providing code and steps taken, and lastly,  provided a simplified version of their code to assess. 
 
 ### "Not So Smart" Question (AI Generated - Not a real post!):
 
-<br>
 "HELP! I need to do a website!:
 My boss said I need to make a website for the company using PHP and JavaScript. I'm completely new to this and don't know where to start. What's the fastest and easiest way to do this? Is there some code you can give me?"
 In this example, the user is not asking for guidance—they're asking for the project to be done for them. There's no evidence of prior research, no specific problem, and no context. Questions like this almost always go unanswered. 
 No research, no mindfulness, no accuracy, no to simplification... no problem to solve.
-<br>
 
 ## Don't be like Bart Simpson. Ask "smart" questions.
 
