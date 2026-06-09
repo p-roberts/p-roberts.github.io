@@ -39,7 +39,7 @@ Most of us have heard the old saying, "There is no such thing as a dumb question
 
 <img width="500" height="500" alt="stackoverflow-smart-question" src="https://github.com/user-attachments/assets/02fdfb2c-383d-4374-874e-10baf7b93e8d" />
 
- *image source: [stackoverflow.com]*
+ <small> *image source: [stackoverflow.com]* </small>
  
 <br>
 The user provided their code, described their attempt at a fix, and showed a follow-up result—giving responders everything they needed to help. The user clearly did their homework and conducted research, was mindful of the technical level of StackOverflow, ensured accuracy by providing code and steps taken, and lastly,  provided a simplified version of their code to assess. 
