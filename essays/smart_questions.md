@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "There is no Such Thing as a Dumb Question... or Is There?"
 # All dates must be YYYY-MM-DD format!
-date: 2025-09-11
+date: 2026-06-08
 published: false
 labels:
   - Smart Questions
