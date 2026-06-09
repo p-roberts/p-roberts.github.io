@@ -18,10 +18,11 @@ labels:
 ## There is no Such Thing as a Dumb Question... or Is There?
 <br>
 Most of us have heard the old saying, "There is no such thing as a dumb question." But if we’re being honest, not every question is equally effective. As a new coder, learning how to ask smart questions—after ["RTFM"](http://www.catb.org/esr/faqs/smart-questions.html#rtfm) or ["STFW"](http://www.catb.org/esr/faqs/smart-questions.html#rtfm)—is a skill itself. Eric Steven Raymond's guide, "How to Ask Questions the Smart Way," argues there might be such a thing as a stupid question after all. Raymond's guide provides a guideline for newbies in the software engineering world on seeking help more efficiently. The idea is that while curiosity is always welcome, how you ask matters. A poorly written—or even a lazy—question can make things harder for everyone involved. So maybe it’s not about whether a question is dumb, but whether it’s asked competently.
-<br>
+<br><br>
 
 ## Some Pointers to Smart Questions:
   <br>
+  
 #### Research. 
 > As indicated by "RTFM" or "STFW", try to look for the answer before posting in a forum.
   
@@ -34,6 +35,7 @@ Most of us have heard the old saying, "There is no such thing as a dumb question
 #### Simplification. 
 > Size matters. Simplifying code helps others read through your program more easily to assess, along with informative headlines and questions.
 
+<br><br>
 ## A "Smart" vs. "Not So Smart" Question on StackOverflow:
 <br>
 
@@ -46,7 +48,7 @@ Most of us have heard the old saying, "There is no such thing as a dumb question
  
 
 The user provided their code, described their attempt at a fix, and showed a follow-up result—giving responders everything they needed to help. The user clearly did their homework and conducted research, was mindful of the technical level of StackOverflow, ensured accuracy by providing code and steps taken, and lastly,  provided a simplified version of their code to assess. 
-<br>
+<br><br>
 
 ### "Not So Smart" Question (AI Generated - Not a real post!):
 
@@ -55,7 +57,7 @@ The user provided their code, described their attempt at a fix, and showed a fol
 My boss said I need to make a website for the company using PHP and JavaScript. I'm completely new to this and don't know where to start. What's the fastest and easiest way to do this? Is there some code you can give me?"
 In this example, the user is not asking for guidance—they're asking for the project to be done for them. There's no evidence of prior research, no specific problem, and no context. Questions like this almost always go unanswered. 
 No research, no mindfulness, no accuracy, no to simplification... no problem to solve.
-<br>
+<br><br>
 
 
 ## Don't be like Bart Simpson. Ask "smart" questions.
