@@ -53,5 +53,5 @@ No research, no mindfulness, no accuracy, no to simplification... no problem to 
 
 When you hit a problem, try tackling it yourself first. Most questions—especially common ones—have already been answered somewhere. Proper due diligence is all it takes. Dig through FAQs, docs, or guides before posting. If you’re still stuck after doing your homework, look for a forum or community that may match the level of your question. When you ask for help, explain your issue clearly, provide all relevant details, and present it in a way you’d want to receive it if you were the expert. This helps others help you faster—and saves everyone time in the long run.
 <br>
-<br><img width="480" height="378" alt="Screenshot 2026-06-08 at 5 04 05 PM" src="https://github.com/user-attachments/assets/1ddd7dc8-180f-4bff-b638-3add9142871c" />
+<br>
 
