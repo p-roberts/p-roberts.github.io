@@ -28,20 +28,20 @@ Most of us have heard the old saying, "There is no such thing as a dumb question
 •	Accuracy in describing your problem and your own steps taken in attempting a solution should be a given.
   <br>
 •	Size matters! Simplify code, but also be informative in your headlines and questions.
-  <br>
+  <br><br>
 
 ## Example of a "Smart" Question and a "Not So Smart" Question on StackOverflow:
 
-•	"Smart" Question: 
+"Smart" Question: 
 <br>
 ["How can I prevent SQL injection in PHP?](https://stackoverflow.com/questions/60174/how-can-i-prevent-sql-injection-in-php)
- If user input is inserted without modification into an SQL query, then the application becomes vulnerable to SQL injection, like in the following example:
+ If user input is inserted without modification into an SQL query, then the application becomes vulnerable to SQL injection, like in the following example: <br>
 [code inserted]
 That's because the user can input something like value'); DROP TABLE table;--, and the query becomes:
 [result inserted]
 What can be done to prevent this from happening?"
- <br>
-•	"Not So Smart" Question (AI Generated - Not a real post!):
+ <br><br>
+"Not So Smart" Question (AI Generated - Not a real post!):
 <br>
 "HELP! I need to do a website!:
 My boss said I need to make a website for the company using PHP and JavaScript. I'm completely new to this and don't know where to start. What's the fastest and easiest way to do this? Is there some code you can give me?"
