@@ -20,22 +20,27 @@ labels:
 Most of us have heard the old saying, "There is no such thing as a dumb question." But if we’re being honest, not every question is equally effective. As a new coder, learning how to ask smart questions—after ["RTFM"](http://www.catb.org/esr/faqs/smart-questions.html#rtfm) or ["STFW"](http://www.catb.org/esr/faqs/smart-questions.html#rtfm)—is a skill itself. Eric Steven Raymond's guide, "How to Ask Questions the Smart Way," argues there might be such a thing as a stupid question after all. Raymond's guide provides a guideline for newbies in the software engineering world on seeking help more efficiently. The idea is that while curiosity is always welcome, how you ask matters. A poorly written—or even a lazy—question can make things harder for everyone involved. So maybe it’s not about whether a question is dumb, but whether it’s asked competently.
 
 ## Some Pointers to Smart Questions:
-  <br>
-•	Research. As indicated by "RTFM" or "STFW", try to look for the answer before posting in a forum.
-  <br>
-•	Mindfulness. Be mindful and pay attention to where you are posting your questions—does the forum match the technical level of your question? Is your question easy to read and to reply to?
-  <br>
-•	Accuracy. Describe your problem accurately, including steps you have already taken.
-  <br>
-•	Simplification. Size matters. Simplifying code helps others read through your program more easily to assess, along with informative headlines and questions.
-  <br>
+  
+#### Research. 
+> As indicated by "RTFM" or "STFW", try to look for the answer before posting in a forum.
+  
+#### Mindfulness. 
+> Be mindful and pay attention to where you are posting your questions—does the forum match the technical level of your question? Is your question easy to read and to reply to?
+  
+#### Accuracy. 
+> Describe your problem accurately, including steps you have already taken.
+  
+#### Simplification. 
+> Size matters. Simplifying code helps others read through your program more easily to assess, along with informative headlines and questions.
 
 ## A "Smart" vs. "Not So Smart" Question on StackOverflow:
 
 ### ["Smart" Question: How can I prevent SQL injection in PHP?](https://stackoverflow.com/questions/60174/how-can-i-prevent-sql-injection-in-php)
 
-<img width="952" height="758" alt="stackoverflow-smart-question" src="https://github.com/user-attachments/assets/02fdfb2c-383d-4374-874e-10baf7b93e8d" />
+<img width="500" height="500" alt="stackoverflow-smart-question" src="https://github.com/user-attachments/assets/02fdfb2c-383d-4374-874e-10baf7b93e8d" />
+
  *image source: [stackoverflow.com]*
+ 
 <br>
 The user provided their code, described their attempt at a fix, and showed a follow-up result—giving responders everything they needed to help. The user clearly did their homework and conducted research, was mindful of the technical level of StackOverflow, ensured accuracy by providing code and steps taken, and lastly,  provided a simplified version of their code to assess. 
 
