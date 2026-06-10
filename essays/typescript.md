@@ -28,21 +28,33 @@ I also benefited from using the interactive learning platform Codecademy. If you
 ## Pros of TypeScript
 
 <br>
+
 > TypeScript enables early syntax error detection. This was incredibly helpful for catching errors as you write, instead of waiting until you run your program—a definite time-saver.
+
 <br>
+
 > It makes code easier to read and work with, especially on large projects or when collaborating with a team.
+
 <br>
+
 > TypeScript works smoothly with the latest JavaScript features and fits into existing projects without much hassle, making the development process feel more modern and enjoyable.
+
 <br>
+
 > TypeScript's explicit type annotations help clearly state what a function or variable requires—eliminating the guesswork.
+
 <br>
 
 ## Cons of TypeScript
 
 <br>
+
 > Those same explicit type annotations are also a drawback: declaring complex types and unions can get verbose and time-consuming.
+
 <br>
+
 > TypeScript must be compiled down to JavaScript before it can run in a browser.
+
 <br>
 
 ## My Concluding Thought...
