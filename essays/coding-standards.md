@@ -30,30 +30,43 @@ Coding standards vary between programming languages, like JavaScript, Python, an
   <summary>JavaScript Spacing Rules</summary>
   
 -	Indentation with tabs.
-  
+<br>
+
 -	No whitespace at the end of line or on blank lines.
+<br>
 
 -	Lines should usually be no longer than 80 characters, and should not exceed 100 (counting tabs as 4 spaces). This is a "soft" rule, but long lines generally indicate unreadable or disorganized code.
+<br>
 
 -	if/else/for/while/try blocks should always use braces, and always go on multiple lines.
+<br>
 
 -	Unary special-character operators (e.g., ++, --) must not have space next to their operand.
+<br>
 
 -	Any , and ; must not have preceding space.
+<br>
 
 -	Any ; used as a statement terminator must be at the end of the line.
+<br>
 
 -	Any : after a property name in an object definition must not have preceding space.
+<br>
 
 -	The ? and : in a ternary conditional must have space on both sides.
+<br>
 
 -	No filler spaces in empty constructs (e.g., {}, [], fn()).
+<br>
 
 -	There should be a new line at the end of each file.
+<br>
 
 -	Any ! negation operator should have a following space.
+<br>
 
 -	All function bodies are indented by one tab, even if the entire file is wrapped in a closure.
+<br>
 
 -	Spaces may align code within documentation blocks or within a line, but only tabs should be used at the start of a line.
 
