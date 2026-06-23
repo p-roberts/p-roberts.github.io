@@ -21,14 +21,12 @@ labels:
 ## FROM GRAMMAR POLICE TO SYNTAX POLICE: DOES CODE STILL NEED RULES IF IT WORKS?
 
 Coding standards vary between programming languages, like JavaScript, Python, and C++. For instance, syntax and structure can be defined by curly braces in JavaScript, by indentation in Python, or by naming conventions like camelCase or snake_case. These standards affect how code executes, but some are more trivial than others — spacing being a good example. To illustrate, here are some common JavaScript spacing rules from [WordPress Developer Resources](https://developer.wordpress.org/coding-standards/wordpress-coding-standards/):
-
-<div style="border: 1px solid #ccc; padding: 10px; margin: 10px;">
   
 > These rules encourage liberal spacing for improved developer readability. The minification process creates a file that is optimized for browsers to read and process.
   
   <details>
   <summary>JavaScript Spacing Rules</summary>
-  
+<br>
 -	Indentation with tabs.
 <br>
 
@@ -72,8 +70,6 @@ Coding standards vary between programming languages, like JavaScript, Python, an
 
 </details>
 
-</div>
-
 ## IF IT AIN'T BROKE, DON'T FIX IT, RIGHT?
 
 How pertinent are these coding standards — or is it insignificant if your code runs precisely as expected? When we consider collaborative projects, we have to think about readability among teammates. Or industry standards: upholding one increases consistency and makes it easier to use, share, or edit source code.
@@ -88,7 +84,6 @@ These extensions have added confidence to my coding, since it's often the smalle
 
 Just as a well-formatted essay in a language I understand is easier for me—and my professors—to read, code becomes easier to comb through between collaborators, whether through tools like ESLint or by manually enforcing schemes and standards. So whether you use these tools or enforce standards yourself, I'd say they are very necessary. Coding standards are significant — especially when collaboration, industry standards, and long-term maintenance are on the line. I'll leave off with the four key benefits of coding standards, as outlined by Perforce Software:
 
-<div style='border: 1px solid #ccc; padding: 10px; margin: 10px;'>
 
 ### [4 Key Benefits of Using Coding Standards](https://www.perforce.com/resources/qac/coding-standards)
 
