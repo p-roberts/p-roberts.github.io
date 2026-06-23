@@ -22,7 +22,7 @@ labels:
 
 Coding standards vary between programming languages, like JavaScript, Python, and C++. For instance, syntax and structure can be defined by curly braces in JavaScript, by indentation in Python, or by naming conventions like camelCase or snake_case. These standards affect how code executes, but some are more trivial than others — spacing being a good example. To illustrate, here are some common JavaScript spacing rules from [WordPress Developer Resources](https://developer.wordpress.org/coding-standards/wordpress-coding-standards/):
   
-> These rules encourage liberal spacing for improved developer readability. The minification process creates a file that is optimized for browsers to read and process.
+#### These rules encourage liberal spacing for improved developer readability. The minification process creates a file that is optimized for browsers to read and process.
   
   <details>
   <summary>JavaScript Spacing Rules</summary>
