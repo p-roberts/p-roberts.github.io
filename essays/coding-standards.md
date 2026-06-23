@@ -27,6 +27,7 @@ Coding standards vary between programming languages, like JavaScript, Python, an
   <details>
   <summary>JavaScript Spacing Rules</summary>
 <br>
+    
 -	Indentation with tabs.
 <br>
 
@@ -69,6 +70,7 @@ Coding standards vary between programming languages, like JavaScript, Python, an
 -	Spaces may align code within documentation blocks or within a line, but only tabs should be used at the start of a line.
 
 </details>
+<br>
 
 ## IF IT AIN'T BROKE, DON'T FIX IT, RIGHT?
 
@@ -94,7 +96,6 @@ Just as a well-formatted essay in a language I understand is easier for me—and
 | 3 | Software security from the start |
 | 4 | Reduced development costs and accelerated time to market |
 
-</div>
 
 ## References
 
